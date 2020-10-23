@@ -63,19 +63,21 @@ h3 {
 }
 
 h4 {
-    color: #ccb3ff;
+    color: #aa80ff;
     font-size: 25px;
     font-weight: bold;
 }
 
 h5 {
-    color: #999999;
+    color: #808080;
     font-size: 20px;
     font-style: italic;
 
 }
 
 .quitos {
+    display: flex;
+    justify-content: center;
     margin-top: 20px;
     margin-bottom: 20px;
     border: groove 10px;
@@ -83,13 +85,15 @@ h5 {
     transition: 1s ease-in;
 }
 
-.lofi {
-    border: groove 10px;
-    border-color: #b2b2b2;
-}
-
 .quitos:hover {
     border: groove 20px;
     border-color: #336699;
     transition: .3s;
+}
+
+.lofi {
+    display: flex;
+    justify-content: center;
+    border: groove 10px;
+    border-color: #b2b2b2;
 }
