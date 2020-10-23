@@ -30,6 +30,10 @@ html, body {
         margin: 20px;
         padding: 60px;
     }
+     .dropbtn {
+        display: none;
+    }
+
 
      button {
         width: 300px;
@@ -62,6 +66,10 @@ html, body {
         margin-bottom: 10px;
     
     }
+     .dropbtn {
+        display: none;
+    }
+
 
     button {
         width: 300px;
