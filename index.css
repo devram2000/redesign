@@ -40,8 +40,7 @@ body {
 
 img {
     max-width: 100%;
-    height: auto;
-    
+    height: auto;    
 }
 
 h1 {
@@ -82,7 +81,11 @@ h5 {
     border: groove 10px;
     border-color: #b2b2b2;
     transition: 1s ease-in;
-    background: #fefbd8;
+}
+
+.lofi {
+    border: groove 10px;
+    border-color: #b2b2b2;
 }
 
 .quitos:hover {
