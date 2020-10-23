@@ -175,7 +175,6 @@ button {
 }
 
 .quitos {
-    display: flex;
     justify-content: center;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -191,7 +190,6 @@ button {
 }
 
 .lofi {
-    display: flex;
     justify-content: center;
     border: groove 10px;
     border-color: #b2b2b2;
