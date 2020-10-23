@@ -1,5 +1,6 @@
 /* Put your style information here! */
 
+
 html, body {
     margin: 0px;
     padding: 0px;
@@ -242,7 +243,6 @@ h5 {
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
-    flex: 1 1 0px;
 
 }
 
